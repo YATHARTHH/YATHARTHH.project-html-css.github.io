@@ -30,6 +30,9 @@ body{
 .text-center{
 	font-size: 30px;
 }
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
 
 h2{
 	text-align: center;
